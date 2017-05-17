@@ -1,4 +1,4 @@
-static const char *const keycode_map[] = {    /*index of each string in the array = its keycode*/
+const char *const keycode_map[] = {    /*index of each string in the array = its keycode*/
 		"KEY_RESERVED", 
 		"KEY_ESC", 
 		"KEY_1", 
